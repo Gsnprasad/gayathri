@@ -27,3 +27,5 @@ teja
 data
 kiwi
 thanmay
+sehwag
+dhoni
