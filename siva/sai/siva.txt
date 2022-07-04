@@ -32,3 +32,4 @@ dhoni
 dhanvish
 sathish
 vara
+sudo
